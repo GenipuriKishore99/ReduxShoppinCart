@@ -1,3 +1,9 @@
-echo "hello world"
-echo "hii"
-manjunath@oopsglobal.in
+import React from 'react'
+
+const kishore = () => {
+  return (
+    <div>kishore</div>
+  )
+}
+
+export default kishore
